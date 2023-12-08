@@ -1,0 +1,7 @@
+indicator_name: Prevalence of low income based in the Low-Income measure, after tax (LIM-AT)%
+indicator_number: 1-2-1
+comunication_units: percentage
+source_active_1: true 
+source_organization_1: Statistics Canada, Census of Population
+source_url_1: https://www12.statcan.gc.ca/census-recensement/index-eng.cfm
+reporting_status: complete
