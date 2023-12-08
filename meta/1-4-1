@@ -1,0 +1,7 @@
+indicator_name: Proportion of the population experiencing homelessness
+indicator_number: 1-4-1
+computation_units: percentage
+source_active_1: true
+source_roganisation_1: Statistics Canada
+source_url_1: https://www.lspc.ca/wp-content/uploads/2018-Point-In-TimeCount-.pdf
+reporting_status: complete
